@@ -1,1 +1,1 @@
-print('usuario:')
+print('usuario y contraseña:')
